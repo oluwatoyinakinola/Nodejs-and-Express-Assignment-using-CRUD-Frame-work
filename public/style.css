@@ -1,0 +1,30 @@
+body{
+    background-color: cyan;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.heading{
+    color: green;
+}
+
+form input{
+    font-weight: bold;
+    font-size: medium;
+}
+
+  
+  .list {
+    color: blue;
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 15px;
+    
+    
+  }
+
+  .sub {
+    color: green;
+  }
+  
+  
